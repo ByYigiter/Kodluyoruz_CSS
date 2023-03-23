@@ -1,0 +1,15 @@
+
+.anasayfa, .hakkinda, .linkler{
+    text-align: center;
+}
+h1{
+    color: red;
+}
+h2, .list, ol{
+    text-align: center;
+    list-style-position: inside;
+    
+}
+ol img{
+    width: 150px;
+}
